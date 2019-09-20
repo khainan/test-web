@@ -1,3 +1,4 @@
-# test-web
+# HOW TO RUN THIS WEB
 
-# npm run start to RUN THE WEB
+- npm install
+- npm run start (to RUN THE WEB)
