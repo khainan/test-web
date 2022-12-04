@@ -3012,9 +3012,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
@@ -9750,6 +9750,11 @@ wide-align@^1.1.0:
   integrity sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA==
   dependencies:
     string-width "^1.0.2 || 2"
+
+window-scroll-position@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/window-scroll-position/-/window-scroll-position-1.0.2.tgz#1ff92ea851c4a5715fa8135a53cfa9de8ea1c618"
+  integrity sha512-8TBGheyTxw0aZC8RRce8L21yD133b2tOHPtLUlic3d0b6/hRZr1yRTo8mtW5XRNVddmk5is9VbsJHReK+9NIug==
 
 wordwrap@~0.0.2:
   version "0.0.3"
